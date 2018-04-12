@@ -44,21 +44,21 @@
             // 
             // txtPurchasePrice
             // 
-            this.txtPurchasePrice.Location = new System.Drawing.Point(118, 7);
+            this.txtPurchasePrice.Location = new System.Drawing.Point(175, 7);
             this.txtPurchasePrice.Name = "txtPurchasePrice";
             this.txtPurchasePrice.Size = new System.Drawing.Size(120, 20);
             this.txtPurchasePrice.TabIndex = 0;
             // 
             // txtInterest
             // 
-            this.txtInterest.Location = new System.Drawing.Point(118, 33);
+            this.txtInterest.Location = new System.Drawing.Point(175, 33);
             this.txtInterest.Name = "txtInterest";
             this.txtInterest.Size = new System.Drawing.Size(120, 20);
             this.txtInterest.TabIndex = 2;
             // 
             // txtDownPayment
             // 
-            this.txtDownPayment.Location = new System.Drawing.Point(118, 60);
+            this.txtDownPayment.Location = new System.Drawing.Point(175, 60);
             this.txtDownPayment.Name = "txtDownPayment";
             this.txtDownPayment.Size = new System.Drawing.Size(120, 20);
             this.txtDownPayment.TabIndex = 3;
@@ -66,7 +66,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 12);
+            this.label1.Location = new System.Drawing.Point(69, 12);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(82, 13);
             this.label1.TabIndex = 4;
@@ -75,7 +75,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(12, 40);
+            this.label3.Location = new System.Drawing.Point(69, 40);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(45, 13);
             this.label3.TabIndex = 6;
@@ -84,7 +84,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(12, 67);
+            this.label4.Location = new System.Drawing.Point(69, 67);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(82, 13);
             this.label4.TabIndex = 7;
@@ -92,7 +92,7 @@
             // 
             // btnCalculate
             // 
-            this.btnCalculate.Location = new System.Drawing.Point(41, 97);
+            this.btnCalculate.Location = new System.Drawing.Point(63, 97);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(75, 23);
             this.btnCalculate.TabIndex = 8;
@@ -102,15 +102,16 @@
             // 
             // lbResult
             // 
+            this.lbResult.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.lbResult.FormattingEnabled = true;
-            this.lbResult.Location = new System.Drawing.Point(9, 126);
+            this.lbResult.Location = new System.Drawing.Point(12, 126);
             this.lbResult.Name = "lbResult";
-            this.lbResult.Size = new System.Drawing.Size(247, 95);
+            this.lbResult.Size = new System.Drawing.Size(343, 121);
             this.lbResult.TabIndex = 12;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(137, 97);
+            this.button1.Location = new System.Drawing.Point(220, 97);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 13;
@@ -126,7 +127,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(277, 249);
+            this.ClientSize = new System.Drawing.Size(367, 249);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lbResult);
             this.Controls.Add(this.btnCalculate);

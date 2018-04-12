@@ -8,3 +8,13 @@ C:\Users\Cyberadmin\documents\visual studio 2017\Projects\Financial Calcs\Mortga
 C:\Users\Cyberadmin\documents\visual studio 2017\Projects\Financial Calcs\Mortgage Calc\obj\Debug\Mortgage Calc.pdb
 C:\Users\Cyberadmin\documents\visual studio 2017\Projects\Financial Calcs\Mortgage Calc\obj\Debug\Mortgage Calc.csprojResolveAssemblyReference.cache
 C:\Users\Cyberadmin\documents\visual studio 2017\Projects\Financial Calcs\Mortgage Calc\obj\Debug\Mortgage_Calc.Mortgage.resources
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Mortgage Calc\bin\Debug\Mortgage Calc.exe.config
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Mortgage Calc\bin\Debug\Mortgage Calc.exe
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Mortgage Calc\bin\Debug\Mortgage Calc.pdb
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Mortgage Calc\obj\Debug\Mortgage Calc.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Mortgage Calc\obj\Debug\Mortgage_Calc.Mortgage.resources
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Mortgage Calc\obj\Debug\Mortgage_Calc.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Mortgage Calc\obj\Debug\Mortgage Calc.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Mortgage Calc\obj\Debug\Mortgage Calc.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Mortgage Calc\obj\Debug\Mortgage Calc.exe
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Mortgage Calc\obj\Debug\Mortgage Calc.pdb

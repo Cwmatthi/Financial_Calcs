@@ -11,3 +11,16 @@ C:\Users\Cyberadmin\documents\visual studio 2017\Projects\Financial Calcs\Financ
 C:\Users\Cyberadmin\documents\visual studio 2017\Projects\Financial Calcs\Financial Calcs\bin\Debug\Mortgage Calc.exe
 C:\Users\Cyberadmin\documents\visual studio 2017\Projects\Financial Calcs\Financial Calcs\bin\Debug\Mortgage Calc.pdb
 C:\Users\Cyberadmin\documents\visual studio 2017\Projects\Financial Calcs\Financial Calcs\bin\Debug\Mortgage Calc.exe.config
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\bin\Debug\Financial Calcs.exe.config
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\bin\Debug\Financial Calcs.exe
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\bin\Debug\Financial Calcs.pdb
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\bin\Debug\Mortgage Calc.exe
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\bin\Debug\Mortgage Calc.pdb
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\bin\Debug\Mortgage Calc.exe.config
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\obj\Debug\Comp Intrest Calc.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\obj\Debug\Financial_Calcs.CompInterest.resources
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\obj\Debug\Financial_Calcs.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\obj\Debug\Comp Intrest Calc.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\obj\Debug\Comp Intrest Calc.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\obj\Debug\Financial Calcs.exe
+C:\Users\Cyberadmin\Desktop\Financial_Calcs\Financial Calcs\Financial Calcs\obj\Debug\Financial Calcs.pdb

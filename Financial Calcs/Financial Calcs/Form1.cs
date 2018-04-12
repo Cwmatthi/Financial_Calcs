@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// Sites to check Validation http://www.moneychimp.com/calculator/compound_interest_calculator.htm and 
+// https://www.investor.gov/additional-resources/free-financial-planning-tools/compound-interest-calculator
 
 namespace Financial_Calcs
 {
@@ -20,12 +22,15 @@ namespace Financial_Calcs
 
         public void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            // Closes the entire form
+
             Close();
         }
 
         public void btnCalculate_Click(object sender, EventArgs e)
-        {   
+        {
             // declaring variables
+
             double Principle, AnnualRate, FutureValue, RateperPeriod, Deposit, Amount ;
             int NumberofPeriods, Compoundtype;
 
@@ -70,6 +75,8 @@ namespace Financial_Calcs
                 }
                 catch(Exception)
                 {
+                    // Error checking with messages to notify user
+
                     MessageBox.Show("Cannot have alphabetical characters in textbox. Please replace with numbers.");    
                     errorProvider1.SetError(txtPrincipal, "Not a number value.");
                     errorProvider1.SetError(txtInterest, "Not a number value.");
