@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comp Intrest Calc", "Financial Calcs\Comp Intrest Calc.csproj", "{DDE5A203-BFEB-43C7-A8BF-E2F3DBB1DAD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mortgage Calc", "Mortgage Calc\Mortgage Calc.csproj", "{B0CA83B2-851B-42E0-B849-175D16FA3553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE5A203-BFEB-43C7-A8BF-E2F3DBB1DAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE5A203-BFEB-43C7-A8BF-E2F3DBB1DAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE5A203-BFEB-43C7-A8BF-E2F3DBB1DAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE5A203-BFEB-43C7-A8BF-E2F3DBB1DAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CA83B2-851B-42E0-B849-175D16FA3553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CA83B2-851B-42E0-B849-175D16FA3553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CA83B2-851B-42E0-B849-175D16FA3553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CA83B2-851B-42E0-B849-175D16FA3553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71799F60-5F2E-4627-9F9B-4BC2D77A4F00}
+	EndGlobalSection
+EndGlobal
